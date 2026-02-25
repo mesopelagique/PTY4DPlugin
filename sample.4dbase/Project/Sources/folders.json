@@ -1,0 +1,16 @@
+{
+	"xterm": {
+		"methods": [
+			"run",
+			"XTerm_OnOutput",
+			"XTerm_ReadLoop"
+		],
+		"forms": [
+			"xterm"
+		],
+		"classes": [
+			"XTerm"
+		]
+	},
+	"trash": {}
+}
