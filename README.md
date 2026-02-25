@@ -7,6 +7,10 @@ A 4D plugin that provides interactive pseudoterminal (PTY) session management.
 
 This plugin allows you to spawn terminal sessions (like `bash`, `zsh`, or other CLI tools), send input to them, and read their output asynchronously. It correctly handles ANSI escape sequences and terminal sizing, making it ideal for interacting with complex, interactive command-line applications directly from 4D.
 
+## Uses
+
+This plugin is actively used in the [Xterm4D](https://github.com/mesopelagique/Xterm4D/) project.
+
 ## Features
 
 - **Spawn PTY Sessions**: Start interactive shell sessions with a specified window size and working directory.
